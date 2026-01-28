@@ -15,7 +15,7 @@ This project performs a deep-dive analysis into the Zomato restaurant dataset to
 * **Environment:** Google Colab
 
 ## 📈 Visualizations
-![Final Dashboard](zomato_dataset_dashboard.png)
+![Final Dashboard]
 
 ## 📁 How to use
 1. Clone the repository.
